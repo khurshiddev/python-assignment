@@ -8,7 +8,3 @@
 
 ![2 shape-drow](https://user-images.githubusercontent.com/92572647/225615506-3be0fa51-49c5-4782-b3d3-4f2a0f2f5ad1.png)
 
-
-3-free-drow
-
-![free-draw](https://user-images.githubusercontent.com/92572647/225615565-c64b0696-4924-4c7c-b386-c5f30608f9b2.png)
