@@ -1,4 +1,4 @@
-# pyhton-assignment
+# python-assignment
 
 # 1-image-creation
 ### It is the result of first code
