@@ -7,6 +7,7 @@
 
 
 # 2-shape-drow
-![Reference Image](/images/shape-drawing.png)
+
+![Reference Image ](/images/shape-drawing.png)
 
 
